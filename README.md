@@ -24,3 +24,5 @@ To build the project, you usually need to perform the following steps:
  - Build PDF/raster solution (/source/pdfraster/pdfraster.sln)
 
  - Build TWAIN Direct solution (/source/TwainDirect.sln)
+
+See [scripts/Windows/_README_.txt](scripts/Windows/_README_.txt) for next steps.
